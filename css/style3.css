@@ -40,7 +40,24 @@
     z-index: 99999999999;
 }
 
+.formulario label{
+    width: 100px;
+}
 
+.formulario{
+    border: 2px solid #fff;
+    width: auto;
+    margin: 0 45%;
+    padding: 1%;
+}
+
+.formulario input[type=text],input[type=date]{
+    width: 100%;
+}
+
+footer p{
+    font-size: 30px;
+}
 
 
 
