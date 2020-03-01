@@ -2,7 +2,7 @@
 body {
     font-family: 'Rubik', sans-serif;
     position: relative;
-    background-color: rgba(31, 30, 30, 0.931);
+    background-image: url(../img/fondoC.jpg);
 }
 
 a {
@@ -148,10 +148,7 @@ header {
 }
 
 .bg-gradient {
-    background-image: -moz-linear-gradient( 135deg, #0e0d0d 0%, #64a19d 100%);
-    background-image: -webkit-linear-gradient( 135deg, #0e0d0d 0%, #64a19d 100%);
-    background-image: -ms-linear-gradient( 135deg, #0e0d0d 0%, #64a19d 100%);
-    background-image: linear-gradient( 135deg, #0e0d0d 0%, #64a19d 100%);
+    background-image: url(../img/fondoC.jpg);
 }
 
 .tagline {
